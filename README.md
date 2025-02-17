@@ -7,7 +7,7 @@ This project involves a comprehensive analysis of Apple Sales Data using Python 
 3. Numpy
 4. Plotly
 # Dataset
-The Dataset is available in the repository as csv named apple_products.csv
+The Dataset is available in the repository as csv named [apple_products.csv](https://github.com/Ritesh-957/apple_sales_analysis_python/blob/main/apple_products.csv)
 # EDA
 Exploratory Data Analysis has been done, various cleaning process, transformation of dataset has been done to make it more consistent and accurate, removing any possible anamolies or inconsistency.
 # Visualization
