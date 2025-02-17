@@ -1,6 +1,11 @@
 # Apple Sales Data Analysis Using Python.
 Analysis of apple sales data using jupyter python and its various libraries Pandas, NumPy, Plotly.
 This project involves a comprehensive analysis of Apple Sales Data using Python and its various libraries like Pandas, NumPy, Plolty. The goal is to extract valuable insights and answer various business questions based on the dataset.
+# TechStack
+1. Python
+2. Pandas
+3. Numpy
+4. Plotly
 # Dataset
 The Dataset is available in the repository as csv named apple_products.csv
 # EDA
